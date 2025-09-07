@@ -1,0 +1,236 @@
+{
+	"label": "Equipamento",
+    "mapping": {
+        "description": "system.description"
+    },
+    "folders": {
+        "Armor": "Armadura",
+        "Weapons": "Armas",
+        "Basic Gear": "Equipamento Básico",
+        "Herbal Remedies": "Remédios à base de plantas",
+        "Starting Gear": "Equipamento Inicial"
+    },
+	"entries": {
+        "Chainmail": {
+            "name": "Cota de malha"
+        },
+        "Mithral Chainmail": {
+            "name": "Cota de malha de Mithral"
+        },
+        "Mithral Plate Mail": {
+            "name": "Armadura de placas de Mithral"
+        },
+        "Plate Mail": {
+            "name": "Armadura de placas"
+        },
+        "Round Shield": {
+            "name": "Escudo redondo"
+        },
+        "Shield": {
+            "name": "Escudo"
+        },
+        "Leather Armor": {
+            "name": "Armadura de Couro"
+        },
+        "Bastard Sword": {
+            "name": "Espada Bastarda"
+        },
+        "Blowgun": {
+            "name": "Zarabatana"
+        },
+        "Bolas": {
+            "name": "Bolas"
+        },
+        "Boomerang": {
+            "name": "Bumerangue"
+        },
+        "Club": {
+            "name": "Clava"
+        },
+        "Club (Obsidian)": {
+            "name": "Clava (Obsidiana)"
+        },
+        "Crossbow": {
+            "name": "Besta"
+        },
+        "Dagger": {
+            "name": "Adaga"
+        },
+        "Dagger (Obsidian)": {
+            "name": "Adaga (Obsidiana)"
+        },
+        "Greataxe": {
+            "name": "Machado Grande"
+        },
+        "Greatsword": {
+            "name": "Espada Grande"
+        },
+        "Handaxe": {
+            "name": "Machadinha"
+        },
+        "Javelin": {
+            "name": "Azagaia"
+        },
+        "Longbow": {
+            "name": "Arco Longo"
+        },
+        "Longsword": {
+            "name": "Espada Longa"
+        },
+        "Mace": {
+            "name": "Maça"
+        },
+        "Morningstar": {
+            "name": "Estrela da Manhã"
+        },
+        "Pike": {
+            "name": "Alabarda"
+        },
+        "Razor Chain": {
+            "name": "Corrente com Navalhas"
+        },
+        "Scimitar": {
+            "name": "Cimitarra"
+        },
+        "Shortbow": {
+            "name": "Arco Curto"
+        },
+        "Shortsword": {
+            "name": "Espada Curta"
+        },
+        "Sling": {
+            "name": "Estilingue"
+        },
+        "Spear": {
+            "name": "Lança"
+        },
+        "Spear (Obsidian)": {
+            "name": "Lança (Obsidiana)"
+        },
+        "Spear-thrower": {
+            "name": "Arremessador de Lanças"
+        },
+        "Staff": {
+            "name": "Cajado"
+        },
+        "Warhammer": {
+            "name": "Martelo de Guerra"
+        },
+        "Whip": {
+            "name": "Chicote"
+        },
+        "Stave": {
+            "name": "Cajado Adornado"
+        },
+        "Arrows": {
+            "name": "Flechas",
+            "description": "Munição para arcos curtos ou longos."
+        },
+        "Backpack": {
+            "name": "Mochila",
+            "description": "Guarda todo o equipamento que você puder carregar. Não o perca."
+        },
+        "Basilisk Egg": {
+            "name": "Ovo de Basilisco",
+            "description": "Um bebê leal nasce em [[/r 1d4]] dias."
+        },
+        "Bottle": {
+            "name": "Garrafa de Vidro",
+            "description": "Recipientes de vidro com capacidade para uma dose de líquido."
+        },
+        "Caltrops": {
+            "name": "Estrepes",
+            "description": "Pequenos espigões de ferro em forma de triângulo. Os seres vivos que pisarem nos espigões sofrem 1 ponto de dano e só podem mover-se a metade da velocidade durante 10 rodadas."
+        },
+        "Crawling Kit": {
+            "name": "Kit de Escalada"
+        },
+        "Crossbow Bolts": {
+            "name": "Setas de Besta",
+            "description": "Munição para bestas."
+        },
+        "Crowbar": {
+            "name": "Pé de Cabra",
+            "description": "Concede vantagem em testes para abrir objetos presos."
+        },
+        "Flask": {
+            "name": "Frasco de Vidro",
+            "description": "Recipientes de vidro com capacidade para uma dose de líquido."
+        },
+        "Flint and Steel": {
+            "name": "Pederneira",
+            "description": "Um pequeno acendedor de fogo. Com ele, as tentativas rotineiras de acender uma fogueira sempre dão certo."
+        },
+        "Grappling Hook": {
+            "name": "Arpéu",
+            "description": "Uma âncora de corda com três pontas curvas."
+        },
+        "Holy Symbol": {
+            "name": "Símbolo Sagrado"
+        },
+        "Iron Spikes": {
+            "name": "Pinos de Ferro",
+            "description": "Espigões resistentes. Cada um tem um orifício para passar corda. Podem ser martelados com armas ou outros espigões de ferro."
+        },
+        "Lantern": {
+            "name": "Lampião",
+            "description": "Ilumina até uma distância dupla próxima (ver Luz, pág. 46). Requer óleo. Possui uma tampa para ocultar a luz."
+        },
+        "Light Spell": {
+            "name": "Feitiço de Luz"
+        },
+        "Light Spell (Double Range)": {
+            "name": "Feitiço de Luz (Alcance Duplo)"
+        },
+        "Light Spell (Double Time)": {
+            "name": "Feitiço de Luz (Duração Dupla)"
+        },
+        "Mirror": {
+            "name": "Espelho",
+            "description": "Um pequeno espelho polido."
+        },
+        "Oil, flask": {
+            "name": "Óleo (Frasco)",
+            "description": "Alimenta uma lanterna por uma hora de tempo real. Um frasco cobre uma área próxima e queima por 4 rodadas, causando 1d4 de dano a cada rodada."
+        },
+        "Pole": {
+            "name": "Bastão",
+            "description": "De madeira, com 3 metros de comprimento."
+        },
+        "Rations": {
+            "name": "Rações",
+            "description": "Um dia de suprimento de comida e água para uma pessoa."
+        },
+        "Rope, 60'": {
+            "name": "Corda (18 metros)",
+            "description": "Corda, com cerca de 18 metros."
+        },
+        "Thieves' Tools": {
+            "name": "Kit de Ladrão",
+            "description": "VAN em testes para escalar, esgueirar-se, esconder-se, aplicar disfarces, encontrar e desativar armadilhas e realizar tarefas delicadas."
+        },
+        "Torch": {
+            "name": "Tocha",
+            "description": "Ilumina uma distância próxima (consulte Fontes de luz, pág. 46). Queima por uma hora de tempo real."
+        },
+        "Curative": {
+            "name": "Ervas Curativas"
+        },
+        "Foebane": {
+            "name": "Ervas Antimaldição",
+            "description": "VAN em ataques e danos contra um tipo de criatura à sua escolha por [[/r 1d6]] rodadas"
+        },
+        "Restorative": {
+            "name": "Ervas Restauradoras",
+            "description": "Acaba com um veneno ou doença"
+        },
+        "Salve": {
+            "name": "Pomada",
+            "description": "Cura 1 de HP"
+        },
+        "Stimulant": {
+            "name": "Estimulante",
+            "description": "Você não pode se surpreender por 10 rodadas @UUID[Compendium.shadowdark.conditions.MUNwczWej0Bo8x4S]{Effect: Stimulant}"
+        }
+    }
+}

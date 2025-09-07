@@ -1,0 +1,178 @@
+{
+	"label": "Condições",
+    "mapping": {
+        "description": "system.description"
+    },
+	"entries": {
+        "Condition: Afraid": {
+            "name": "Condição: Amedrontado",
+			"description": "O personagem está amedrontado."
+        },
+		"Condition: Asleep": {
+			"name": "Condição: Adormecido",
+			"description": "O personagem está adormecido."
+		},
+		"Condition: Banished": {
+			"name": "Condição: Banido"
+		},
+		"Condition: Beguiled": {
+			"name": "Condição: Enfeitiçado",
+			"description": "O personagem está enfeitiçado."
+		},
+		"Condition: Blind": {
+			"name": "Condição: Cego",
+			"description": "O personagem está cego."
+		},
+		"Condition: Bug Brain": {
+			"name": "Condição: Cérebro de Inseto"
+		},
+		"Condition: Charmed": {
+			"name": "Condição: Encantado",
+			"description": "O personagem está encantado."
+		},
+		"Condition: Compelled": {
+			"name": "Condição: Compelido",
+			"description": "O personagem é forçado a fazer algo."
+		},
+		"Condition: Cursed": {
+			"name": "Condição: Amaldiçoado",
+			"description": "O personagem está amaldiçoado."
+		},
+		"Condition: Disease (1)": {
+			"name": "Condição: Doença (1)",
+			"description": "Doente, o personagem sofre -1 em Constituição."
+		},
+		"Condition: Disease (2)": {
+			"name": "Condição: Doença (2)",
+			"description": "Doente, o personagem sofre -2 em Constituição."
+		},
+		"Condition: Disease (3)": {
+			"name": "Condição: Doença (3)",
+			"description": "Doente, o personagem sofre -3 em Constituição."
+		},
+		"Condition: Disease (4)": {
+			"name": "Condição: Doença (4)",
+			"description": "Doente, o personagem sofre -4 em Constituição."
+		},
+		"Condition: Drained (1)": {
+			"name": "Condição: Esgotado (1)",
+			"description": "Esgotado, o personagem sofre -1 em Sabedoria."
+		},
+		"Condition: Drained (2)": {
+			"name": "Condição: Esgotado (2)",
+			"description": "Esgotado, o personagem sofre -2 em Sabedoria."
+		},
+		"Condition: Drained (3)": {
+			"name": "Condição: Esgotado (3)",
+			"description": "Esgotado, o personagem sofre -3 em Sabedoria."
+		},
+		"Condition: Drained (4)": {
+			"name": "Condição: Esgotado (4)",
+			"description": "Esgotado, o personagem sofre -4 em Sabedoria."
+		},
+		"Condition: Drained (5)": {
+			"name": "Condição: Esgotado (5)",
+			"description": "Esgotado, o personagem sofre -5 em Sabedoria."
+		},
+		"Condition: Drained (6)": {
+			"name": "Condição: Esgotado (6)",
+			"description": "Esgotado, o personagem sofre -6 em Sabedoria."
+		},
+		"Condition: Enfeebled (Cha)": {
+			"name": "Condição: Enfraquecido (Car)",
+			"description": "Enfraquecido, o Carisma do personagem é forçado a ficar em 3."
+		},
+		"Condition: Enfeebled (Con)": {
+			"name": "Condição: Enfraquecido (Con)",
+			"description": "Enfraquecido, a Constituição do personagem é forçada a ficar em 3."
+		},
+		"Condition: Enfeebled (Dex)": {
+			"name": "Condição: Enfraquecido (Des)",
+			"description": "Enfraquecido, a Destreza do personagem é forçada a ficar em 3."
+		},
+		"Condition: Enfeebled (Int)": {
+			"name": "Condição: Enfraquecido (Int)",
+			"description": "Enfraquecido, a Inteligência do personagem é forçada a ficar em 3."
+		},
+		"Condition: Enfeebled (Str)": {
+			"name": "Condição: Enfraquecido (For)",
+			"description": "Enfraquecido, a Força do personagem é forçada a ficar em 3."
+		},
+		"Condition: Enfeebled (Wis)": {
+			"name": "Condição: Enfraquecido (Sab)",
+			"description": "Enfraquecido, a Sabedoria do personagem é forçada a ficar em 3."
+		},
+		"Condition: Fragile": {
+			"name": "Condição: Frágil",
+			"description": "O personagem sofre o dobro de dano de todas as fontes."
+		},
+		"Condition: Gibbering": {
+			"name": "Condição: Balbuciando",
+			"description": "O personagem está balbuciando insanamente."
+		},
+		"Condition: Invisible": {
+			"name": "Condição: Invisível",
+			"description": "O personagem está invisível."
+		},
+		"Condition: Invisible (Stealthy)": {
+			"name": "Condição: Invisível (Furtivo)",
+			"description": "O personagem está invisível."
+		},
+		"Condition: Laughing": {
+			"name": "Condição: Rindo",
+			"description": "O personagem está rindo incontrolavelmente."
+		},
+		"Condition: Life Drain (1)": {
+			"name": "Condição: Drenagem de Vida (1)",
+			"description": "O personagem sofre -1 em Constituição."
+		},
+		"Condition: Life Drain (2)": {
+			"name": "Condição: Drenagem de Vida (2)",
+			"description": "O personagem sofre -2 em Constituição."
+		},
+		"Condition: Life Drain (3)": {
+			"name": "Condição: Drenagem de Vida (3)",
+			"description": "O personagem sofre -3 em Constituição."
+		},
+		"Condition: Life Drain (4)": {
+			"name": "Condição: Drenagem de Vida (4)",
+			"description": "O personagem sofre -4 em Constituição."
+		},
+		"Condition: Mesmerized": {
+			"name": "Condição: Hipnotizado",
+			"description": "O personagem está hipnotizado."
+		},
+		"Condition: Paralyzed": {
+			"name": "Condição: Paralisado",
+			"description": "O personagem está paralisado."
+		},
+		"Condition: Petrified": {
+			"name": "Condição: Petrificado",
+			"description": "O personagem está petrificado."
+		},
+		"Condition: Polymorphed": {
+			"name": "Condição: Polimorfado",
+			"description": "O personagem foi transformado em outra criatura."
+		},
+		"Condition: Possessed": {
+			"name": "Condição: Possuído",
+			"description": "O personagem está possuído."
+		},
+		"Condition: Stuck": {
+			"name": "Condição: Preso",
+			"description": "O personagem está preso."
+		},
+		"Condition: Stupified": {
+			"name": "Condição: Estuporado",
+			"description": "O personagem está estuporado."
+		},
+		"Condition: Unconscious": {
+			"name": "Condição: Inconsciente",
+			"description": "O personagem está inconsciente."
+		},
+		"Effect: Stimulant": {
+			"name": "Efeito: Estimulante",
+			"description": "Você não pode se surpreender por 10 rodadas."
+		}
+	}
+}

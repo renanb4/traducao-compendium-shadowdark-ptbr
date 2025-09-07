@@ -1,0 +1,357 @@
+{
+	"label": "Magias",
+    "mapping": {
+        "description": "system.description"
+    },
+    "folders": {
+        "Priest": "Sacerdote",
+		"Wizard": "Mago",
+		"Seer": "Vidente",
+		"Witch": "Bruxa"
+    },
+	"entries": {
+        "Cure Wounds": {
+            "name": "Curar Ferimentos",
+			"description": ""
+        },
+		"Holy Weapon": {
+			"name": "Arma Sagrada",
+			"description": "Uma arma que você tocar será imbuída com uma bênção sagrada. A arma se tornará mágica e terá +1 em ataques e danos enquanto durar o efeito. @UUID[Compendium.shadowdark.spell-effects.r2JNgS2474vuq9oy]{Efeito do Feitiço: Arma Sagrada}"
+		},
+		"Light": {
+			"name": "Luz",
+			"description": ""
+		},
+		"Protection From Evil": {
+			"name": "Proteção contra o Mal",
+			"description": ""
+		},
+		"Shield of Faith": {
+			"name": "Escudo da Fé",
+			"description": ""
+		},
+		"Turn Undead": {
+			"name": "Expulsar Mortos-Vivos",
+			"description": ""
+		},
+		"Augury": {
+			"name": "Augúrio",
+			"description": ""
+		},
+		"Bless": {
+			"name": "Bênção",
+			"description": ""
+		},
+		"Blind/Deafen": {
+			"name": "Cegueira/Surdez",
+			"description": ""
+		},
+		"Cleansing Weapon": {
+			"name": "Arma Purificadora",
+			"description": "Uma arma que você tocar será envolvida por chamas purificadoras. Ela causará [[/r 1d4]] de dano adicional ([[/r 1d6]] contra mortos-vivos) enquanto durar o efeito. @UUID[Compendium.shadowdark.spell-effects.7hKYL9hdnsvCUM9c]{Efeito do feitiço: Arma Purificadora}"
+		},
+		"Smite": {
+			"name": "Destruição",
+			"description": ""
+		},
+		"Zone of Truth": {
+			"name": "Zona da Verdade",
+			"description": ""
+		},
+		"Command": {
+			"name": "Comando",
+			"description": ""
+		},
+		"Lay to Rest": {
+			"name": "Descanso Eterno",
+			"description": ""
+		},
+		"Mass Cure": {
+			"name": "Cura em Massa",
+			"description": ""
+		},
+		"Rebuke Unholy": {
+			"name": "Expulsar Profano",
+			"description": ""
+		},
+		"Restoration": {
+			"name": "Restauração",
+			"description": ""
+		},
+		"Speak with Dead": {
+			"name": "Falar com Mortos",
+			"description": ""
+		},
+		"Commune": {
+			"name": "Comunhão",
+			"description": ""
+		},
+		"Control Water": {
+			"name": "Controlar Água",
+			"description": ""
+		},
+		"Flame Strike": {
+			"name": "Coluna de Chamas",
+			"description": ""
+		},
+		"Pillar of Salt": {
+			"name": "Pilar de Sal",
+			"description": ""
+		},
+		"Regenerate": {
+			"name": "Regeneração",
+			"description": ""
+		},
+		"Wrath": {
+			"name": "Ira",
+			"description": ""
+		},
+		"Divine Vengeance": {
+			"name": "Vingança Divina",
+			"description": ""
+		},
+		"Dominion": {
+			"name": "Domínios",
+			"description": ""
+		},
+		"Heal": {
+			"name": "Cura",
+			"description": ""
+		},
+		"Judgement": {
+			"name": "Julgamento",
+			"description": ""
+		},
+		"Plane Shift": {
+			"name": "Transição Planar",
+			"description": ""
+		},
+		"Prophecy": {
+			"name": "Profecia",
+			"description": ""
+		},
+		"Alarm": {
+			"name": "Alarme",
+			"description": "Você toca um objeto, como o limiar de uma porta, e insere um alarme mágico nele. Se qualquer criatura que você não designou durante a conjuração da magia tocar ou atravessar esse objeto, um sino mágico soará em sua mente."
+		},
+		"Burning Hands": {
+			"name": "Mãos Flamejantes",
+			"description": ""
+		},
+		"Charm Person": {
+			"name": "Encantar Pessoa",
+			"description": ""
+		},
+		"Detect Magic": {
+			"name": "Detectar Magia",
+			"description": ""
+		},
+		"Feather Fall": {
+			"name": "Queda Suave",
+			"description": ""
+		},
+		"Floating Disk": {
+			"name": "Disco Flutuante",
+			"description": ""
+		},
+		"Hold Portal": {
+			"name": "Obstruir Porta",
+			"description": ""
+		},
+		"Mage Armor": {
+			"name": "Armadura Arcana",
+			"description": ""
+		},
+		"Magic Missile": {
+			"name": "Míssil Mágico",
+			"description": ""
+		},
+		"Sleep": {
+			"name": "Sono",
+			"description": ""
+		},
+		"Acid Arrow": {
+			"name": "Flecha Ácida",
+			"description": ""
+		},
+		"Alter Self": {
+			"name": "Alterar-se",
+			"description": "Você altera magicamente a sua forma física, ganhando uma característica que modifica sua anatomia atual. Por exemplo, você pode fazer crescer guelras funcionais em seu pescoço, ou adicionar garras aos seus dedos. Essa magia não pode fazer crescer asas ou membros. @UUID[Compendium.shadowdark.spell-effects.f2RsbovyTLEZvxuF]{Spell Effect: Alter Self}"
+		},
+		"Detect Thoughts": {
+			"name": "Detectar Pensamentos",
+			"description": ""
+		},
+		"Fixed Object": {
+			"name": "Objeto Fixo",
+			"description": ""
+		},
+		"Hold Person": {
+			"name": "Imobilizar Pessoa",
+			"description": ""
+		},
+		"Invisibility": {
+			"name": "Invisibilidade",
+			"description": ""
+		},
+		"Knock": {
+			"name": "Arrombar",
+			"description": "Uma porta, janela, portão, baú ou portal que você possa ver e que esteja dentro do alcance se abre instantaneamente, superando todas as fechaduras e barreiras mundanas. Essa magia cria uma um barulho alto que pode ser ouvida por todas as criaturas que estiverem ao alcance da sua voz."
+		},
+		"Levitate": {
+			"name": "Levitação",
+			"description": ""
+		},
+		"Mirror Image": {
+			"name": "Reflexos",
+			"description": ""
+		},
+		"Misty Step": {
+			"name": "Passo Nebuloso",
+			"description": ""
+		},
+		"Silence": {
+			"name": "Silêncio",
+			"description": ""
+		},
+		"Web": {
+			"name": "Teia",
+			"description": ""
+		},
+		"Animate Dead": {
+			"name": "Animar Mortos",
+			"description": "Você toca os restos mortais de um humanoide, e ele se ergue como um zumbi ou esqueleto sob seu controle. Os restos mortais devem ter pelo menos três membros e a cabeça intactos. A criatura morta-viva age em seu turno. Após 1 dia, a criatura se desfaz em pó sepulcral."
+		},
+		"Dispel Magic": {
+			"name": "Dissipar Magia",
+			"description": ""
+		},
+		"Fabricate": {
+			"name": "Fabricar",
+			"description": ""
+		},
+		"Fireball": {
+			"name": "Bola de Fogo",
+			"description": ""
+		},
+		"Fly": {
+			"name": "Voo",
+			"description": ""
+		},
+		"Gaseous Form": {
+			"name": "Forma Gasosa",
+			"description": ""
+		},
+		"Illusion": {
+			"name": "Ilusão",
+			"description": ""
+		},
+		"Lightning Bolt": {
+			"name": "Relâmpago",
+			"description": ""
+		},
+		"Magic Circle": {
+			"name": "Círculo Mágico",
+			"description": ""
+		},
+		"Protection from Energy": {
+			"name": "Proteção contra Energia",
+			"description": ""
+		},
+		"Sending": {
+			"name": "Remeter",
+			"description": ""
+		},
+		"Arcane Eye": {
+			"name": "Olho Arcano",
+			"description": ""
+		},
+		"Cloud Kill": {
+			"name": "Névoa Mortal",
+			"description": ""
+		},
+		"Confusion": {
+			"name": "Confusão",
+			"description": ""
+		},
+		"Dimension Door": {
+			"name": "Porta Dimensional",
+			"description": ""
+		},
+		"Divination": {
+			"name": "Presságio",
+			"description": ""
+		},
+		"Passwall": {
+			"name": "Criar Passagem",
+			"description": ""
+		},
+		"Polymorph": {
+			"name": "Polimorfia",
+			"description": ""
+		},
+		"Resilient Sphere": {
+			"name": "Esfera Resiliente",
+			"description": ""
+		},
+		"Stoneskin": {
+			"name": "Pele-rocha",
+			"description": ""
+		},
+		"Telekinesis": {
+			"name": "Telecinese",
+			"description": ""
+		},
+		"Wall of Force": {
+			"name": "Muralha de Energia",
+			"description": ""
+		},
+		"Antimagic Shell": {
+			"name": "Cúpula Antimagia",
+			"description": ""
+		},
+		"Create Undead": {
+			"name": "Criar Morto-Vivo",
+			"description": ""
+		},
+		"Disintegrate": {
+			"name": "Desintegrar",
+			"description": ""
+		},
+		"Hold Monster": {
+			"name": "Imobilizar Monstro",
+			"description": ""
+		},
+		"Power Word Kill": {
+			"name": "Palavra de Poder: Matar",
+			"description": ""
+		},
+		"Prismatic Orb": {
+			"name": "Orbe Prismático",
+			"description": ""
+		},
+		"Scrying": {
+			"name": "Vidência",
+			"description": ""
+		},
+		"Shapechanger": {
+			"name": "Metamorfose",
+			"description": ""
+		},
+		"Summon Extraplanar": {
+			"name": "Invocar Extraplanar",
+			"description": ""
+		},
+		"Teleport": {
+			"name": "Teleporte",
+			"description": ""
+		},
+		"Wish": {
+			"name": "Desejo",
+			"description": ""
+		}
+		
+
+
+	}
+}
