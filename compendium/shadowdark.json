@@ -1,8 +1,8 @@
 {
-    "label": "Sistema Shadowdark",
-    "entries": {
-        "Shadowdark System": {
-            "name": "Sistema Shadowdark"
-        }
+    "folders": {
+        "Shadowdark System": "Sistema Shadowdark",
+        "Character Options": "Opções de Personagem",
+        "Journals": "Diários",
+        "Quickstart": "Início Rápido"
     }
 }
