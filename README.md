@@ -8,6 +8,10 @@
 - Ative ambos.
 - Altere o idioma em configurações para Português (Brasil)
 
+# Como instalar
+- Vá em Módulos adicionais > Instalar Módulo > Cole na URL do Manifesto na parte inferior a seguinte url: "https://raw.githubusercontent.com/renanb4/traducao-compendium-shadowdark-ptbr/refs/heads/main/module.json"
+![alt text](image.png)
+
 # Onde Obter
 - Comprar os materiais em Português (Brasil): https://www.catarse.me/shadowdark
 
