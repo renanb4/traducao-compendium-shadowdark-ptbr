@@ -3,7 +3,7 @@
   "title":"Tradução Compendium Shadowdark - Português (Brasil)",
   "description":"Tradução 1 pra 1 do compêndio de Shadowdark com o livro oficial utilizando o módulo Babele.",
   
-  "version":"0.5",
+  "version":"1.0",
   "authors":[
     {
       "name":"Renan",
@@ -17,9 +17,9 @@
   },
   
   "esmodules": ["babele-register.js"],
-  "url":"https://github.com/renanb4/traducao-compendium-shadowdark-ptbr",
-  "manifest": "https://raw.githubusercontent.com/renanb4/traducao-compendium-shadowdark-ptbr/refs/heads/main/module.json",
-  "download": "https://codeload.github.com/renanb4/traducao-compendium-shadowdark-ptbr/zip/main",
+  "url":"",
+  "manifest": "",
+  "download": "https://codeload.github.com/brunocalado/bid-pt-br/zip/main",
    "dependencies":[
       {
          "name":"babele",
