@@ -3,6 +3,15 @@
     "entries": {
         "Shadowdark System": {
             "name": "Sistema Shadowdark"
-        }
+        },
+        "Character Options": {
+            "name":  "Opções de Personagem"
+        },
+        "Journal": {
+            "name": "Diário"
+        },
+         "Quickstart": {
+            "name": "Início Rápido"
+         } 
     }
 }

@@ -1,10 +1,10 @@
 # Tradução Compendium Shadowdark - Português (Brasil)
-<b>Módulo de tradução 1 pra 1 do compêndio de Shadowdark com o livro oficial utilizando o módulo Babele.</b>
+<b>Módulo de tradução do compêndio de Shadowdark com ajuda do livro oficial utilizando o módulo Babele.</b>
 <b>Foi traduzido totalmente o compêndio Conditions, Gear, e todos os nomes de magias do livro base. Estou no processo de tradução das descrições das magias.</b>
 
 # Como Usar
 - Instale o Sistema Shadowdark no Foundry. (Testei apenas na v12)
-- Instale o módulo Babele e esse módulo.
+- Instale o módulo Babele (<b>CUIDADO! UTILIZE A VERSÃO 12 DO BABELE SE ESTIVER NA V12 DO FOUNDRY!</b>) e esse módulo.
 - Ative ambos.
 - Altere o idioma em configurações para Português (Brasil)
 

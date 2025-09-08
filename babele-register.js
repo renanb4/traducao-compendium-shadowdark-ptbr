@@ -1,6 +1,6 @@
 Hooks.once('init', () => { 
 	if(typeof Babele !== 'undefined') { 
-		Babele.get().register({
+		game.babele().register({
 			module: 'traducao-compendium-shadowdark-ptbr',
 			lang: 'pt-BR',
 			dir: 'compendium'
