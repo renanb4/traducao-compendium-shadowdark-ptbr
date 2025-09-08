@@ -19,7 +19,7 @@
   "esmodules": ["babele-register.js"],
   "url":"",
   "manifest": "",
-  "download": "https://codeload.github.com/brunocalado/bid-pt-br/zip/main",
+  "download": "",
    "dependencies":[
       {
          "name":"babele",
