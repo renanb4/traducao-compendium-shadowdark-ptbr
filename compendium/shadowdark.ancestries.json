@@ -1,4 +1,36 @@
 {
-	"label": "Ancestries",
-	"entries": {}
+	"label": "Ancestralidades",
+	"mapping": {
+        "description": "system.description"
+	},
+	"entries": {
+		"Dwarf": {
+            "name": "Anão",
+			"description": "<p>Povo corajoso e robusto, tão resiliente quanto os reinos de pedra que eles esculpem dentro das montanhas. Você conhece os idiomas Comum e Anão. </p><p><b>Robusto:</b> Inicia com +2 PV. Role os pontos de vida a cada nível com Vantagem.</p>"
+        },
+		"Elf": {
+			"name": "Elfo",
+			"description": "<p>Povo etéreo e gracioso, que venera o conhecimento e a beleza. Os elfos enxergam longe e vivem bastante. Você conhece os idiomas Comum, Élfico e Silvestre. </p><p><b>Visão Aguçada:</b> Você recebe um bônus de +1 em todas as jogadas de ataque com armas à distância, ou um bônus de +1 em testes de conjuração.</p>"
+		},
+		"Goblin": {
+			"name": "Goblin",
+			"description": "<p>Criaturas verdes e espertas que prosperam em locais escuros e apertados. Os goblins são tão ferozes quanto pequenos. Você conhece os idiomas Comum e Goblin.</p><p><b>Sentidos Apurados:</b> Você não pode ser surpreendido.</p>"
+		},
+		"Half-Orc": {
+			"name": "Meio-Orc",
+			"description": "<p>Guerreiros imponentes e com presas, que são tão implacáveis quanto os orcs e tão ousados quanto os humanos. Você conhece os idiomas Comum e Orc.</p><p><b>Poderoso:</b> Você recebe um bônus de +1 em jogadas de ataque e dano com armas corpo a corpo.</p>"
+		},
+		"Halfling": {
+			"name": "Halfling",
+			"description": "<p>Pequenos e alegres habitantes do campo, com personalidades travessas. Eles apreciam os prazeres simples da vida. Você conhece o idioma Comum.</p><p><b>Furtivo:</b> Uma vez por dia, você pode ficar invisível por 3 rodadas.</p>"
+		},
+		"Human": {
+			"name": "Humano",
+			"description": "<p>Povo corajoso, adaptável e diverso que aprende de forma rápida e que alcança feitos poderosos. Você conhece o idioma Comum e um idioma comum adicional.</p><p><b>Ambicioso:</b> Você ganha uma rolagem de talento adicional no nível 1.</p>"
+		},
+		"Kobold": {
+			"name": "Kobold",
+			"description": "<p>Pequenos lagartos-cães humanóides com uma propensão para consertar coisas, construir armadilhas e um toque de magia. Você conhece as línguas Comum e Dracônico.</p><p><b>Talentoso:</b> Você ganha +1 em testes de conjuração ou pode começar cada sessão com um token de sorte.</p>"
+		}
+	}
 }

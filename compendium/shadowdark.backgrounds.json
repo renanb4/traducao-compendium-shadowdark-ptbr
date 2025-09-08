@@ -1,4 +1,88 @@
 {
-	"label": "Backgrounds",
-	"entries": {}
+	"label": "Antecedentes",
+	"mapping": {
+        "description": "system.description"
+	},
+	"entries": {
+		"Acolyte": {
+            "name": "Acólito",
+			"description": "Você foi bem treinado em ritos religiosos e doutrinas."
+        },
+		"Banished": {
+			"name": "Banido",
+			"description": "Seu povo lhe exilou por crimes que você supostamente cometeu."
+		},
+		"Barbarian": {
+			"name": "Bárbaro",
+			"description": "Você deixou a horda, mas ela não saiu totalmente de você."
+		},
+		"Chirurgeon": {
+			"name": "Cirurgião",
+			"description": "Você entende de anatomia, cirurgias e primeiros socorros"
+		},
+		"Cult Initiate": {
+			"name": "Iniciado do Culto",
+			"description": "Você conhece segredos e rituais blasfemos."
+		},
+		"Herbalist": {
+			"name": "Herbalista",
+			"description": "Você conhece plantas, remédios e venenos."
+		},
+		"Jeweler": {
+			"name": "Joalheiro",
+			"description": "Você pode identificar valores e autenticidade facilmente."
+		},
+		"Mercenary": {
+			"name": "Mercenário",
+			"description": "Você lutou contra amigos e inimigos pelo seu dinheiro"
+		},
+		"Minstrel": {
+			"name": "Menestrel",
+			"description": "Você viajou por longas distâncias com seu charme e talento."
+		},
+		"Noble": {
+			"name": "Nobre",
+			"description": "Carregar um nome famoso abriu muitas portas para você."
+		},
+		"Orphaned": {
+			"name": "Órfão",
+			"description": "Um guardião incomum lhe resgatou e lhe criou."
+		},
+		"Ranger": {
+			"name": "Guardião",
+			"description": "As florestas e regiões selvagens são seu verdadeiro lar."
+		},
+		"Sailor": {
+			"name": "Marinheiro",
+			"description": "Pirata, marinheiro particular ou mercador: os mares são seus."
+		},
+		"Scholar": {
+			"name": "Erudito",
+			"description": "Você sabe muito sobre história antiga e lendas."
+		},
+		"Scout": {
+			"name": "Batedor",
+			"description": "Você sobreviveu graças à furtividade, observação e velocidade."
+		},
+		"Soldier": {
+			"name": "Soldado",
+			"description": "Você serviu como combatente em um exército organizado."
+		},
+		"Thieves' Guild": {
+			"name": "Guilda dos Ladrões",
+			"description": "Você tem conexões, contatos e dívidas."
+		},
+		"Urchin": {
+			"name": "Moleque de Rua",
+			"description": "Você cresceu em meio às impiedosas ruas de uma grande cidade."
+		},
+		"Wanted": {
+			"name": "Procurado",
+			"description": "Há um preço pela sua cabeça, mas você tem aliados."
+		},
+		"Wizard's Apprentice": {
+			"name": "Aprendiz de Mago",
+			"description": "Você tem um dom natural e talento para magia."
+		}
+	}
 }
