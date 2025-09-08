@@ -19,7 +19,7 @@
   "esmodules": ["babele-register.js"],
   "url":"https://github.com/renanb4/traducao-compendium-shadowdark-ptbr",
   "manifest": "https://raw.githubusercontent.com/renanb4/traducao-compendium-shadowdark-ptbr/refs/heads/main/module.json",
-  "download": "https://github.com/renanb4/traducao-compendium-shadowdark-ptbr/archive/refs/heads/main.zip",
+  "download": "https://codeload.github.com/renanb4/traducao-compendium-shadowdark-ptbr/zip/main",
    "dependencies":[
       {
          "name":"babele",
