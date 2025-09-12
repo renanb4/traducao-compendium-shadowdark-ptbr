@@ -3,11 +3,24 @@
 	"mapping": {
         "description": "system.description"
 	},
+	"folders": {
+        "Core": "Core (Conteúdo Base)",
+		"Diabolical": "Diabólico (Cursed Scroll Vol.1)",
+		"Nord": "Nórdico (Cursed Scroll Vol.3)"
+	},
 	"entries": {
 		"Acolyte": {
             "name": "Acólito",
 			"description": "Você foi bem treinado em ritos religiosos e doutrinas."
         },
+		"Amnesiac": {
+			"name": "Amnésico",
+			"description": "Seu passado é uma névoa, mas algumas memórias retornam."
+		},
+		"Ascetic": {
+			"name": "Asceta",
+			"description": "As pessoas temem você, mas buscam sua orientação."
+		},
 		"Banished": {
 			"name": "Banido",
 			"description": "Seu povo lhe exilou por crimes que você supostamente cometeu."
@@ -16,21 +29,129 @@
 			"name": "Bárbaro",
 			"description": "Você deixou a horda, mas ela não saiu totalmente de você."
 		},
+		"Blacksmith": {
+			"name": "Ferreiro",
+			"description": "Armas, armaduras, ferraduras; você faz tudo."
+		},
+		"Bowyer": {
+			"name": "Flecheiro",
+			"description": "Você pode fazer e consertar qualquer arco ou flecha."
+		},
 		"Chirurgeon": {
 			"name": "Cirurgião",
 			"description": "Você entende de anatomia, cirurgias e primeiros socorros"
+		},
+		"Chosen": {
+			"name": "Escolhido",
+			"description": "Uma entidade cósmica o selecionou para um propósito."
+		},
+		"Crafter": {
+			"name": "Artífice",
+			"description": "Você pode fazer e consertar qualquer item utilitário."
+		},
+		"Criminal": {
+			"name": "Criminoso",
+			"description": "Você foi exilado de sua vila por um crime."
+		},
+		"Crop Farmer": {
+			"name": "Lavrador",
+			"description": "Você labuta na terra e conhece todas as plantas."
 		},
 		"Cult Initiate": {
 			"name": "Iniciado do Culto",
 			"description": "Você conhece segredos e rituais blasfemos."
 		},
+		"Demonborn": {
+			"name": "Nascido Demônio",
+			"description": "Um ancestral seu é um demônio poderoso."
+		},
+		"Displaced": {
+			"name": "Deslocado",
+			"description": "Você fugiu depois que um jarl rival atacou sua vila."
+		},
+		"Drifter": {
+			"name": "Andarilho",
+			"description": "Você ainda não encontrou um jarl digno de sua lealdade."
+		},
+		"Drawn": {
+			"name": "Chamado",
+			"description": "Você ouve um chamado sussurrado e o segue."
+		},
+		"Enforcer": {
+			"name": "Executor",
+			"description": "Você faz cumprir a lei do jarl em sua vila."
+		},
+		"Fallen": {
+			"name": "Decaído",
+			"description": "Você caiu em desgraça. Você vai expiar ou abraçar isso?"
+		},
+		"Far Traveler": {
+			"name": "Viajante Distante",
+			"description": "Você conhece muitas pessoas e costumes distantes."
+		},
+		"Feytouched": {
+			"name": "Tocado pelas Fadas",
+			"description": "Uma fada fez amizade com você em sua infância."
+		},
+		"Fisher": {
+			"name": "Pescador",
+			"description": "Você conhece todas as criaturas e lendas do mar."
+		},
+		"Forager": {
+			"name": "Forrageador",
+			"description": "Você sabe como encontrar o comestível e o mortal."
+		},
+		"Freed": {
+			"name": "Liberto",
+			"description": "Você era um escravo, mas escapou ou conquistou sua liberdade."
+		},
+		"Fugitive": {
+			"name": "Fugitivo",
+			"description": "Um salvador anônimo ajudou você a desaparecer."
+		},
+		"God's Blood": {
+			"name": "Sangue Divino",
+			"description": "Você descende de um deus; isso o marca."
+		},
+		"Haunted": {
+			"name": "Assombrado",
+			"description": "Um espírito inquieto quer algo de você."
+		},
+		"Healer": {
+			"name": "Curandeiro",
+			"description": "Você entende como a vida e a morte se entrelaçam."
+		},
 		"Herbalist": {
 			"name": "Herbalista",
 			"description": "Você conhece plantas, remédios e venenos."
 		},
+		"Hermit": {
+			"name": "Ermitão",
+			"description": "As regiões selvagens (e suas criaturas) são sua família."
+		},
+		"Heroborn": {
+			"name": "Nascido Herói",
+			"description": "Você é descendente de um guerreiro famoso."
+		},
+		"Hunter": {
+			"name": "Caçador",
+			"description": "Você sabe como se mover silenciosamente nas regiões selvagens."
+		},
 		"Jeweler": {
 			"name": "Joalheiro",
 			"description": "Você pode identificar valores e autenticidade facilmente."
+		},
+		"Livestock Farmer": {
+			"name": "Criador de Gado",
+			"description": "Você tem intuição sobre todos os animais."
+		},
+		"Marked": {
+			"name": "Marcado",
+			"description": "Você carrega uma marca cósmica. É uma maldição ou um dom?"
+		},
+		"Marooned": {
+			"name": "Náufrago",
+			"description": "Eles o deixaram para trás, mas você se recusou a morrer."
 		},
 		"Mercenary": {
 			"name": "Mercenário",
@@ -44,13 +165,29 @@
 			"name": "Nobre",
 			"description": "Carregar um nome famoso abriu muitas portas para você."
 		},
+		"Nobleborn": {
+			"name": "Nobre por Nascença",
+			"description": "Você é filho de um jarl."
+		},
 		"Orphaned": {
 			"name": "Órfão",
 			"description": "Um guardião incomum lhe resgatou e lhe criou."
 		},
+		"Outcast": {
+			"name": "Pária",
+			"description": "Você foi expulso por crimes reais ou supostos."
+		},
 		"Ranger": {
 			"name": "Guardião",
 			"description": "As florestas e regiões selvagens são seu verdadeiro lar."
+		},
+		"Redeemer": {
+			"name": "Redentor",
+			"description": "Você deve redimir o nome de sua família."
+		},
+		"Sacrifice": {
+			"name": "Sacrifício",
+			"description": "Você seria ritualmente sacrificado, mas escapou."
 		},
 		"Sailor": {
 			"name": "Marinheiro",
@@ -64,6 +201,18 @@
 			"name": "Batedor",
 			"description": "Você sobreviveu graças à furtividade, observação e velocidade."
 		},
+		"Seer's Apprentice": {
+			"name": "Aprendiz de Vidente",
+			"description": "Você conhece algumas das artes místicas."
+		},
+		"Shipwright": {
+			"name": "Carpinteiro Naval",
+			"description": "Você sabe como construir e reparar barcos longos."
+		},
+		"Skald": {
+			"name": "Escaldo",
+			"description": "Você é um poeta e conhece todas as baladas antigas."
+		},
 		"Soldier": {
 			"name": "Soldado",
 			"description": "Você serviu como combatente em um exército organizado."
@@ -72,6 +221,10 @@
 			"name": "Guilda dos Ladrões",
 			"description": "Você tem conexões, contatos e dívidas."
 		},
+		"Trader": {
+			"name": "Comerciante",
+			"description": "Você tem conexões mercantis em todas as vilas."
+		},
 		"Urchin": {
 			"name": "Moleque de Rua",
 			"description": "Você cresceu em meio às impiedosas ruas de uma grande cidade."
@@ -79,6 +232,18 @@
 		"Wanted": {
 			"name": "Procurado",
 			"description": "Há um preço pela sua cabeça, mas você tem aliados."
+		},
+		"Witchborn": {
+			"name": "Nascido de Bruxa",
+			"description": "Eles queimaram sua mãe, mas pouparam você."
+		},
+		"Wolfchild": {
+			"name": "Criança-Lobo",
+			"description": "Há muito tempo, você entrou na cidade vestindo peles."
+		},
+		"Woodborn": {
+			"name": "Nascido da Floresta",
+			"description": "Eles te encontraram no oco de um carvalho."
 		},
 		"Wizard's Apprentice": {
 			"name": "Aprendiz de Mago",

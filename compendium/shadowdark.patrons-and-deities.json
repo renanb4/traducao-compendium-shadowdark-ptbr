@@ -1,4 +1,81 @@
 {
-	"label": "Divindades",
-	"entries": {}
+  "label": "Divindades",
+  "mapping": {
+    "description": "system.description",
+    "titles": "system.titles"
+  },
+  "folders": {
+    "Deities": "Divindades",
+    "Patrons": "Patronos"
+  },
+  "entries": {
+    "All Nord Gods": {
+      "name": "Todos os Deuses Nórdicos",
+      "description": "Os fiéis adoram todos os Deuses Antigos, mas muitos se identificam com um em particular. Respeitar todos os deuses não é traição; é honroso."
+    },
+    "Almazzat": {
+      "name": "Almazzat",
+      "description": "Um arquidemonio com cabeça de lobo, seis olhos e seis chifres. Almazzat busca arrancar as Areias das Eras de seu pai, Kytheros."
+    },
+    "Freya": {
+      "name": "Freya",
+      "description": "A deusa do amor e do ódio. A Rainha das Donzelas Escudeiras cujas valquírias carregam almas dignas para o Grande Banquete. A Primeira Vidente que coloca seus presságios em ossos, sangue e entranhas. Freya inspira os poetas e depois os atormenta com a falta."
+    },
+    "Gede": {
+      "name": "Gede",
+      "description": "A deusa dos banquetes, alegria e das regiões selvagens. Gede é geralmente pacífica, mas tempestades primais rugem quando sua ira se levanta. Muitos elfos e halflings a adoram."
+    },
+    "Kytheros": {
+      "name": "Kytheros",
+      "description": "O Senhor do Tempo que vê todos os futuros possíveis. Kytheros busca o cumprimento de todos os destinos como eram destinados a ser."
+    },
+    "Loki": {
+      "name": "Loki",
+      "description": "O Enganador que vence com astúcia e ardil. O lobo que se disfarça de ovelha. Loki é afável e irritante; suas palavras cortam como aço, e seu riso uiva como uma ventania. Seus seguidores não buscam Valhalla, pois sabem que cairá quando o Ragnarok chegar."
+    },
+    "Madeera the Covenant": {
+      "name": "Madeera do Pacto",
+      "description": "Madeera foi a primeira manifestação da Lei. Ela carrega todas as leis da realidade, um decreto chamado Pacto, escrito em sua pele em símbolos precisos."
+    },
+    "Memnon": {
+      "name": "Memnon",
+      "description": "Memnon foi a primeira manifestação do Caos. Ele é o gêmeo de Madeera, um ser leonino de juba vermelha cuja ambição final é rasgar as leis cósmicas do Pacto da pele de sua irmã."
+    },
+    "Mugdulblub": {
+      "name": "Mugdulblub",
+      "description": "A Lodo Ancião que vaza entre as rachaduras da memória e a escuridão entre as estrelas. Mugdulblub busca a dissolução de todas as formas físicas."
+    },
+    "Odin": {
+      "name": "Odin",
+      "description": "O Pai de Todos. Odin, o Um-Olho, valoriza força e esperteza. Seus corvos gêmeos voam pela noite, espionando sonhos e memórias. Guerreiros dignos são levados para o Grande Salão de Valhalla quando morrem para banquetear e lutar ao lado dele eternamente."
+    },
+    "Ord": {
+      "name": "Ord",
+      "description": "Ord, o Inabalável, o Sábio, o Guardião de Segredos. Ele é o deus da magia, conhecimento, segredos e equilíbrio."
+    },
+    "Ramlaat": {
+      "name": "Ramlaat",
+      "description": "Ramlaat é o Saqueador, o Bárbaro, a Horda. Muitos orcs o adoram e vivem pelo Rito de Sangue, uma profecia que diz que apenas os mais fortes sobreviverão a um destino vindouro."
+    },
+    "Saint Terragnis": {
+      "name": "Santa Terragnis",
+      "description": "Uma cavaleira lendária que é a padroeira da maioria dos humanos leais. Ela ascendeu à divindade há muito tempo e é a personificação da retidão e justiça."
+    },
+    "Shune the Vile": {
+      "name": "Shune, a Vis",
+      "description": "Shune sussurra segredos arcanos para feiticeiros e bruxas que a invocam nas horas escuras. Ela conspira para deslocar Ord para poder controlar o vasto fluxo de magia ela mesma."
+    },
+    "The Lost": {
+      "name": "Os Perdidos",
+      "description": "Dois dos Nove estão perdidos nas eras, seus nomes expurgados da história e da memória. No entanto, sua lenda sussurrada persiste em textos antigos e proibidos e em lugares secretos e profundos..."
+    },
+    "The Willowman": {
+      "name": "O Homem-Salgueiro",
+      "description": "Um ser fantasmagórico e alongado que persegue florestas nebulosas e observa à beira dos pesadelos. O Homem-Salgueiro busca medo."
+    },
+    "Titania": {
+      "name": "Titania",
+      "description": "A volúvel Rainha das Fadas que vê toda a existência como um sonho caprichoso com significado oculto e drama comovente. Titania busca travessura, beleza e arte."
+    }
+  }
 }
